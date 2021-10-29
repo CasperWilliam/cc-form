@@ -1,0 +1,13 @@
+label {
+  display: block;
+  height: 70px;
+}
+
+
+.input-root {
+  border: 1px solid rgb(162, 159, 159);
+  border-radius: 5px;
+  padding: 10px;
+  line-height: 1.2;
+  width: 480px;
+}
